@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\bingo\Player\bin\Debug\Player.exe.config
+C:\Users\Administrator\Desktop\bingo\Player\bin\Debug\Player.exe
+C:\Users\Administrator\Desktop\bingo\Player\bin\Debug\Player.pdb
+C:\Users\Administrator\Desktop\bingo\Player\bin\Debug\SharedLibrary.dll
+C:\Users\Administrator\Desktop\bingo\Player\bin\Debug\SharedLibrary.pdb
+C:\Users\Administrator\Desktop\bingo\Player\obj\Debug\Player.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bingo\Player\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bingo\Player\obj\Debug\Player.csproj.Up2Date
+C:\Users\Administrator\Desktop\bingo\Player\obj\Debug\Player.exe
+C:\Users\Administrator\Desktop\bingo\Player\obj\Debug\Player.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\bingo\SharedLibrary\bin\Debug\SharedLibrary.dll
+C:\Users\Administrator\Desktop\bingo\SharedLibrary\bin\Debug\SharedLibrary.pdb
+C:\Users\Administrator\Desktop\bingo\SharedLibrary\obj\Debug\SharedLibrary.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bingo\SharedLibrary\obj\Debug\SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bingo\SharedLibrary\obj\Debug\SharedLibrary.dll
+C:\Users\Administrator\Desktop\bingo\SharedLibrary\obj\Debug\SharedLibrary.pdb

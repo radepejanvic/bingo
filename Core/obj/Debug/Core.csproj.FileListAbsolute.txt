@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\bingo\Core\bin\Core.dll.config
+C:\Users\Administrator\Desktop\bingo\Core\bin\Core.dll
+C:\Users\Administrator\Desktop\bingo\Core\bin\Core.pdb
+C:\Users\Administrator\Desktop\bingo\Core\bin\SharedLibrary.dll
+C:\Users\Administrator\Desktop\bingo\Core\bin\SharedLibrary.pdb
+C:\Users\Administrator\Desktop\bingo\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bingo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bingo\Core\obj\Debug\Core.csproj.Up2Date
+C:\Users\Administrator\Desktop\bingo\Core\obj\Debug\Core.dll
+C:\Users\Administrator\Desktop\bingo\Core\obj\Debug\Core.pdb

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Bingo\Bingo\bin\Bingo.dll.config
+C:\Users\Administrator\source\repos\Bingo\Bingo\bin\Bingo.dll
+C:\Users\Administrator\source\repos\Bingo\Bingo\bin\Bingo.pdb
+C:\Users\Administrator\source\repos\Bingo\Bingo\obj\Debug\Bingo.dll
+C:\Users\Administrator\source\repos\Bingo\Bingo\obj\Debug\Bingo.pdb

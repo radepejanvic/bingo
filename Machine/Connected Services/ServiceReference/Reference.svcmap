@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="9ce7c41a-dad7-4853-bcad-681408444854" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:65196/BingoService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="BingoService.xsd" MetadataType="Schema" ID="37b758af-daea-4b2b-a335-a10bce7a67be" SourceId="1" SourceUrl="http://localhost:65196/BingoService.svc?xsd=xsd0" />
+    <MetadataFile FileName="BingoService.wsdl" MetadataType="Wsdl" ID="7340799a-f4a0-4f4b-9357-2281567562c0" SourceId="1" SourceUrl="http://localhost:65196/BingoService.svc?wsdl" />
+    <MetadataFile FileName="BingoService1.xsd" MetadataType="Schema" ID="98b311bc-d284-4079-8b5f-12e79b7bd536" SourceId="1" SourceUrl="http://localhost:65196/BingoService.svc?xsd=xsd3" />
+    <MetadataFile FileName="BingoService2.xsd" MetadataType="Schema" ID="ccf5a31f-982b-4f22-914c-8f21af23a583" SourceId="1" SourceUrl="http://localhost:65196/BingoService.svc?xsd=xsd2" />
+    <MetadataFile FileName="BingoService.disco" MetadataType="Disco" ID="c1b4af5c-72f6-4b5a-8690-b6ba2ed8092f" SourceId="1" SourceUrl="http://localhost:65196/BingoService.svc?disco" />
+    <MetadataFile FileName="BingoService3.xsd" MetadataType="Schema" ID="95daf7ce-65de-4a08-872e-455a06d96c97" SourceId="1" SourceUrl="http://localhost:65196/BingoService.svc?xsd=xsd1" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

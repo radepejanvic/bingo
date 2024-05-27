@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\bingo\Machine\bin\Debug\Machine.exe.config
+C:\Users\Administrator\Desktop\bingo\Machine\bin\Debug\Machine.exe
+C:\Users\Administrator\Desktop\bingo\Machine\bin\Debug\Machine.pdb
+C:\Users\Administrator\Desktop\bingo\Machine\obj\Debug\Machine.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\bingo\Machine\obj\Debug\Machine.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\bingo\Machine\obj\Debug\Machine.exe
+C:\Users\Administrator\Desktop\bingo\Machine\obj\Debug\Machine.pdb
