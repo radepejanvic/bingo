@@ -28,14 +28,14 @@ namespace Core
                 players.Add(name, new Player(name));
                 tickets.Add(name, ticket);
                 notifiers.Add(name, OperationContext.Current.GetCallbackChannel<ICallBack>().MessageArrived);
-                SendMessage(notifiers[name], $"SUCCESS: User and ticket registered! \n\t{players[name]} \n\t{ticket}");
+                SendMessage(name, $"SUCCESS: User and ticket registered! \n\t{players[name]} \n\t{ticket}");
             } else if (!tickets.ContainsKey(name))
             {
                 tickets.Add(name, ticket);
-                SendMessage(notifiers[name], $"SUCCESS: Ticket registered! \n\t{ticket}");
+                SendMessage(name, $"SUCCESS: Ticket registered! \n\t{ticket}");
             } else
             {
-                SendMessage(notifiers[name], "WARNING: Ticket already exists in this round.");
+                SendMessage(name, "WARNING: Ticket already exists in this round.");
             }
         }
 
@@ -61,7 +61,7 @@ namespace Core
                 player = players[ticket.Key];
                 player.Winnings += CalculatePrize(matches, ticket.Value.Deposit);
 
-                SendMessage(notifiers[ticket.Key],
+                SendMessage(ticket.Key,
                     $"\tRanking: {rankings.Values.ToList().IndexOf(player)+1}," +
                     $" Mathces: {matches}, Winnings: {players[ticket.Key].Winnings}e");
             }
@@ -127,9 +127,9 @@ namespace Core
                 .ToDictionary(player => player.Name, player => player);
         }
 
-        private void SendMessage(MessageArrivedDelegate notifier, string message)
+        private void SendMessage(string name, string message)
         {
-            notifier?.Invoke(message);
+            notifiers[name]?.Invoke(message);
         }
 
         private void BroadcastMessage(string message)

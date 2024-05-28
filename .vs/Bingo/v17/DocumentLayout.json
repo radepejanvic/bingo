@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\bingo\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C739401F-131D-4675-93D1-847EF48F5BD9}|Core\\Core.csproj|c:\\users\\administrator\\desktop\\bingo\\core\\bingoservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C739401F-131D-4675-93D1-847EF48F5BD9}|Core\\Core.csproj|solutionrelative:core\\bingoservice.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BingoService.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\bingo\\Core\\BingoService.svc.cs",
+              "RelativeDocumentMoniker": "Core\\BingoService.svc.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\bingo\\Core\\BingoService.svc.cs",
+              "RelativeToolTip": "Core\\BingoService.svc.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAlwCEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T15:13:32.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
